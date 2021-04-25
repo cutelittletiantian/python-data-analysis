@@ -1,2 +1,3 @@
-# python-data-analysis
-Python数据分析演示demo和应用案例
+# 前排提示
+
+6月开始挖，有兴趣的同志可以提前关注一把。
